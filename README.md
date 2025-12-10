@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+A programmer with several years of server-side development experience. Proficient in backend languages such as PHP, Golang, Java, and Rust, with extensive experience in building systems capable of handling millions of concurrent connections.
+
+
 <!--
 **owu/owu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
